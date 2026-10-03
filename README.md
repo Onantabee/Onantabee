@@ -3,7 +3,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 > *“Code is not just instructions to a machine — it’s a dialogue between logic and creativity.”*  
 
 I see code the way an artist sees a blank canvas — a space where ideas take shape.  
@@ -17,7 +17,7 @@ I don’t just make things **work** — I make them worth using.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
   <img width="10" />
@@ -50,7 +50,7 @@ I don’t just make things **work** — I make them worth using.
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onantabee&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onantabee&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" />
@@ -58,7 +58,7 @@ I don’t just make things **work** — I make them worth using.
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 <div align="center">
   <a href="mailto:onantabasseyvee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
